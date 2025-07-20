@@ -1,0 +1,6 @@
+library(tidyverse)
+library(readxl)
+getwd()
+library(readxl)
+Belcony_gardening_and_it_s_impacts_on_students_mental_well_being_Responses_ <- read_excel("C:/Users/User/Downloads/Belcony gardening and it's impacts on students mental well-being (Responses).xlsx")
+View(Belcony_gardening_and_it_s_impacts_on_students_mental_well_being_Responses_)
